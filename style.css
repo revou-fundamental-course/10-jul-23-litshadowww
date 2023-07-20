@@ -1,0 +1,18 @@
+.container {
+  background-color: lightgrey;
+  padding: 10px;
+}
+
+.box {
+  height: 20px;
+  width: 99%
+}
+
+#btn {
+  background-color: lightblue;
+  border-radius: 3px;
+  border-width: 1px;
+  width: 85px;
+  height: 25px;
+}
+  
